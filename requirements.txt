@@ -4,3 +4,7 @@ pandas
 chromadb
 tiktoken
 openai
+
+# valdanito
+jupyter
+sentence_transformers
